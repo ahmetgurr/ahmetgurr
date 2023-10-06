@@ -31,6 +31,8 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ahmetgurr&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgurr&theme=tokyonight)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetgurr&show_icons=true&locale=en&layout=compact" alt="ahmetgurr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetgurr&show_icons=true&locale=en" alt="ahmetgurr" /></p>
