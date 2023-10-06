@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet GÜR</h1>
 <h3 align="center">I am a computer engineer, and I work in Android Development.</h3>
 
-🔭 I'm currently working on Android projects with Kotlin**
+🔭 I'm currently working on Android projects with Kotlin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetgurr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetgurr" /> </p>
 
