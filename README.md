@@ -12,10 +12,10 @@
 - [![Linledin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetgur/) 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmetgur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gülsu korkmaz" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmetgur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gulsukorkmaz1" height="30" width="40" /></a>
-<a href="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gulsukorkmaz1" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/ahmetgur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmet GÜR" height="30" width="40" /></a>
+<a href="https://medium.com/@ahmetgur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmetgur" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmet.gurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmet.gurr" height="30" width="40" /></a>
+
 
 <hr>
 <h3 align="left">Languages and Tools</h3>
