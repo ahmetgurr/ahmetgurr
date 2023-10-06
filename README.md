@@ -5,7 +5,6 @@
 🔭 I'm currently working on Android projects with Kotlin**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetgurr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetgurr" /> </p>
-<hr>
 
 ### Social Media
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ahmetgurr) 
